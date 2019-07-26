@@ -3,4 +3,6 @@ segunda linea mod
 2.1
 2.2
 ejercicio3
-conflicts1
+conflict1
+Master 2
+Cambio en branch fGFT
